@@ -76,18 +76,15 @@ __Elementary level__
 <a href="https://www.botanylab.upatras.gr">Botany lab University of Patras</a><br>
 
 
-
 ## Interests
 
-<ul>
-  <li>UI/UX Design</li>
-  <li>Front-end Development</li>
-  <li>Digital Education, Proper use of Technology for minors and seniors</li>
-  <li>Pop culture</li>
-  <li>Physical science</li>
-</ul>
-
-
+  UI/UX Design<br>
+  Front-end Development<br>
+  Digital Education, Proper use of Technology for minors and seniors<br>
+  Pop culture<br>
+  Physical science<br>
+  
+  
 <!-- ### Footer
 
 Last updated: May 2013 -->
