@@ -43,6 +43,9 @@ __Seniors Educator__, Institute of Lifelong Education
 `April 2019 - July 2019`
 __Land Registration Office__
 
+`May 2017 - December 2017`
+__IT Manager__, Munucipality of Thermo
+
 ## Languages
 
 `Greek`
