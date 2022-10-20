@@ -15,7 +15,7 @@ Web Worker, Aspiring Web Designer/Developer.
 
 Web Developer in OnePlusDESIGN, Agrinio
 
-### Specialized in
+## Specialized in
 
 Frontend Development, Education, Reading Comics, Knowing stuff
 
