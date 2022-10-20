@@ -54,6 +54,7 @@ __Intern__, O.T.E. S.A., SDH Department, Heraklion Crete
 
 ## Skills
 `Good knowledge of` HTML, CSS, JavaScript, WordPress CMS
+
 `Intemediate knowledge of:` Java, PHP, MySQL, Python
 
 ## Languages
@@ -97,7 +98,6 @@ __Elementary level__
   
   
 <!-- ### Footer
-
 
 Last updated: May 2013 -->
 
