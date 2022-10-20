@@ -57,7 +57,8 @@ __Elementary level__
 
 ## Projects
 
-<a href="[https://charterpartydisputes.com/](https://charterpartydisputes.com/)">Charter Party Disputes</a>
+<a href="https://charterpartydisputes.com/">Charter Party Disputes</a>
+<a href="https://elizabeth.gr/">Elizabeth Bridal</a>
 
 
 
