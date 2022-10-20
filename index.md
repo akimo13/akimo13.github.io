@@ -72,7 +72,7 @@ __Elementary level__
 <a href="https://www.charterpartydisputes.com/">Charter Party Disputes</a><br>
 <a href="https://www.elizabeth.gr/">Elizabeth Bridal</a><br>
 <a href="https://www.oneplusdesign.com/pinakothiki/">Agrinio Gallery, Kostas Chantzopoulos, Virtual Exhibition</a><br>
-<a href="https://www.saraliotis.com/"></a>Saraliotis<br>
+<a href="https://www.saraliotis.com/">Saraliotis</a><br>
 <a href="https://www.botanylab.upatras.gr">Botany lab University of Patras</a><br>
 
 
