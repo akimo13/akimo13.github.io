@@ -46,6 +46,12 @@ __Land Registration Office__
 `May 2017 - December 2017`
 __IT Manager__, Munucipality of Thermo
 
+`May 2012 - October 2013`
+__Computerization Manager - Assistant__, Aristeidis Katsaros Pharmacy
+
+`April 2008 - September 2008`
+__Intern__, O.T.E. S.A., SDH Department, Heraklion Crete 
+
 ## Languages
 
 `Greek`
@@ -59,12 +65,23 @@ __Elementary level__
 
 ## Projects
 
-<a href="https://charterpartydisputes.com/">Charter Party Disputes</a><br>
-<a href="https://elizabeth.gr/">Elizabeth Bridal</a><br>
-<a href="https://www.oneplusdesign.com/pinakothiki/">Agrinio Gallery, Kostas Chantzopoulos Virtual Exhibition</a><br>
+<a href="https://www.arapaki-art.gr/">Arapaki Art</a>
+<a href="https://www.biniaros.gr/">Biniaros</a><br>
+<a href="https://www.charterpartydisputes.com/">Charter Party Disputes</a><br>
+<a href="https://www.elizabeth.gr/">Elizabeth Bridal</a><br>
+<a href="https://www.oneplusdesign.com/pinakothiki/">Agrinio Gallery, Kostas Chantzopoulos, Virtual Exhibition</a><br>
+<a href="https://www.saraliotis.com/"></a>Saraliotis<br>
+<a href="https://www.botanylab.upatras.gr">Botany lab University of Patras</a><br>
+
+
 
 ## Interests
 
+UI/UX Design
+Front-end Development
+Digital Education, Proper use of Technology for minors and seniors
+Pop culture
+Physical science
 
 
 <!-- ### Footer
