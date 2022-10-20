@@ -58,9 +58,9 @@ __Elementary level__
 ## Projects
 
 `Charter Party Disputes`
-____
 
-`<a href="[https://charterpartydisputes.com/](https://charterpartydisputes.com/)">Charter Party Disputes</a>`
+
+<a href="[https://charterpartydisputes.com/](https://charterpartydisputes.com/)">Charter Party Disputes</a>
 
 
 
