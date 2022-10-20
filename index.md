@@ -53,9 +53,9 @@ __Computerization Manager - Assistant__, Aristeidis Katsaros Pharmacy
 __Intern__, O.T.E. S.A., SDH Department, Heraklion Crete
 
 ## Skills
-`Good knowledge of` HTML, CSS, JavaScript, WordPress CMS
+`Good knowledge of` __HTML, CSS, JavaScript, WordPress CMS__
 
-`Intemediate knowledge of:` Java, PHP, MySQL, Python
+`Intemediate knowledge of:` __Java, PHP, MySQL, Python__
 
 ## Languages
 
@@ -88,9 +88,6 @@ __Elementary level__
   Digital Education, Proper use of Technology for minors and seniors<br>
   Pop culture<br>
   Physical science<br>
-  
-  
-  <p></p>
   
   <br>
   <br>
