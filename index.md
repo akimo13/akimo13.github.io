@@ -50,7 +50,11 @@ __IT Manager__, Munucipality of Thermo
 __Computerization Manager - Assistant__, Aristeidis Katsaros Pharmacy
 
 `April 2008 - September 2008`
-__Intern__, O.T.E. S.A., SDH Department, Heraklion Crete 
+__Intern__, O.T.E. S.A., SDH Department, Heraklion Crete
+
+## Skills
+`Good knowledge of` HTML, CSS, JavaScript, WordPress CMS
+`Intemediate knowledge of:` Java, PHP, MySQL, Python
 
 ## Languages
 
