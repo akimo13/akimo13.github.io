@@ -63,6 +63,8 @@ __Elementary level__
 <a href="https://elizabeth.gr/">Elizabeth Bridal</a><br>
 <a href="https://www.oneplusdesign.com/pinakothiki/">Agrinio Gallery, Kostas Chantzopoulos Virtual Exhibition</a><br>
 
+## Interests
+
 
 
 <!-- ### Footer
