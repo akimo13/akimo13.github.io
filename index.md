@@ -67,7 +67,7 @@ __Elementary level__
 
 `Designed and Developed`
 
-<a href="https://www.arapaki-art.gr/">Arapaki Art</a>
+<a href="https://www.arapaki-art.gr/">Arapaki Art</a><br>
 <a href="https://www.biniaros.gr/">Biniaros</a><br>
 <a href="https://www.charterpartydisputes.com/">Charter Party Disputes</a><br>
 <a href="https://www.elizabeth.gr/">Elizabeth Bridal</a><br>
