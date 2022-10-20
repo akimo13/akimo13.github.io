@@ -28,21 +28,20 @@ __University of Patras, MSc in Human Computer Interaction (pending).__
 `September 2021 - June 2022`
 __ASPAITE - EPPAIK, Patras, Certificate in Minor's Education__
 
-
 `2003 - 2016`
 __Technical Educational Institute, Heraklion Crete, BSc in Applied Informatics & Multimedia__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020 - now`
+__Web Developer__, OnePlusDESIGN
 
-- Warden
-- Minted coins
+`2020`
+__Seniors Educator__, Institute of Lifelong Education
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`April 2019 - July 2019`
+__Land Registration Office__
 
 ## Languages
 
