@@ -13,16 +13,11 @@ Web Worker, Aspiring Web Designer/Developer.
 
 ## Currently
 
-Standing on the shoulders of giants
+Web Developer in OnePlusDESIGN, Agrinio
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Frontend Development, Education, Reading Comics, Knowing stuff
 
 
 ## Education
@@ -59,6 +54,13 @@ __Proficiency level__, ECPE
 
 `Spanish`
 __Elementary level__
+
+## Projects
+
+`Charter Party Disputes`
+____
+
+`<a href="[https://charterpartydisputes.com/](https://charterpartydisputes.com/)">Charter Party Disputes</a>`
 
 
 
