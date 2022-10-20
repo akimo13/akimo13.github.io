@@ -79,12 +79,13 @@ __Elementary level__
 
 ## Interests
 
-UI/UX Design
-Front-end Development
-Digital Education, Proper use of Technology for minors and seniors
-Pop culture
-Physical science
-
+<ul>
+  <li>UI/UX Design</li>
+  <li>Front-end Development</li>
+  <li>Digital Education, Proper use of Technology for minors and seniors</li>
+  <li>Pop culture</li>
+  <li>Physical science</li>
+</ul>
 
 <!-- ### Footer
 
